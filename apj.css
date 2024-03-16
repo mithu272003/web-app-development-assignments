@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+.one{
+    color:rgb(11, 11, 11);
+    text-align:center;
+}
+.two{
+    font-size: 40px;
+    font:black;
+    text-align: center;
+}
+.three{
+    margin :60px;
+    background-color: green;
+    padding-left: 40px;
+    box-shadow: 10px 10px yellowgreen;
+    
+}
